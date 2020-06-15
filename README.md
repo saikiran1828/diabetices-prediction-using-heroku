@@ -19,3 +19,5 @@ link for app using heroku
 6)Deploye the model
 <br>
 7)Web app is ready
+<br>
+![](diabetes-predictor-web-app.gif)
