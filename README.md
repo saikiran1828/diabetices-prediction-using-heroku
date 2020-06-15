@@ -1,6 +1,10 @@
 # Demo for deploying  diabetices-prediction-using-heroku
 Built an app for diabetices prediction and depolyed using heroku
 <br>
+resource for flask
+<br>
+["https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2]
+<br>
 link for app using heroku
 <br>
 ["https://diabeticesprediction.herokuapp.com/]
